@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "sysdesign-2"
+assignment: "notes"
+owner:
+  username: "leetaehwan"
+  id: 9695008
+  accepted_at: "2026-10-26T14:39:14Z"
+source:
+  owner: "studycamp-org"
+  owner_id: 122613267
+  repo: "sysdesign-2-template"
+  branch: "main"
